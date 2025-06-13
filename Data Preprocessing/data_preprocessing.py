@@ -67,6 +67,18 @@ x_train, x_text, y_train, y_test = train_test_split(x,y,train_size=0.8,test_size
 # random_state will give same records in every run 
 
 
+# FEATURE SCALING
+
+from sklearn.preprocessing import Normalizer
+
+sc_X = Normalizer() 
+
+X_train = sc_X.fit_transform(X_train)
+
+X_test = sc_X.transform(X_test)
+
+
+
 
 
 
