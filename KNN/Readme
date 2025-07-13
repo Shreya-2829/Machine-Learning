@@ -1,1 +1,4 @@
-⭐Naive Bayes is a supervised machine learning algorithm based on Bayes' Theorem, used for classification tasks. It assumes that the features are independent of each other, which is why it’s called "naive".
+K-Nearest Neighbors (KNN) is a supervised learning algorithm used for both classification and regression.
+It works by finding the 'k' closest data points (neighbors) to a new input, based on distance (usually Euclidean), and then predicts the output based on majority class (for classification) or average value (for regression) of those neighbors.
+
+--->  KNN works well on small datasets where the data is not high-dimensional and decision boundaries are nonlinear
