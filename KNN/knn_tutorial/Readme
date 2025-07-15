@@ -1,0 +1,21 @@
+Introduction to k Nearest Neighbours Algorithm
+k Nearest Neighbours intuition
+How to decide the number of neighbours in kNN
+Eager learners vs lazy learners
+Import libraries
+Import dataset
+Exploratory data analysis
+Data visualization
+Declare feature vector and target variable
+Split data into separate training and test set
+Feature engineering
+Feature scaling
+Fit Neighbours classifier to the training set
+Predict the test-set results
+Check the accuracy score
+Rebuild kNN classification model using different values of k
+Confusion matrix
+Classification metrices
+ROC - AUC
+k-Fold Cross Validation
+Results and conclusion
